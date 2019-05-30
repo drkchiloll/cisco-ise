@@ -1,4 +1,6 @@
-# Example Typescript 2.x Library
+# A Typescript 3.x NPM Module
+
+I may or may not work on this, but if you'd like to work with me on it then let me know in the Issues
 
 Simple starter library from June 2017.
 Tutorial can be found at
@@ -8,8 +10,8 @@ Or just browse the code here! Or clone the repo.
 
 # Usage
 
-```
-git clone https://github.com/bersling/typescript-library-starter.git
+```javascript
+/* Coming Soon */
 ```
 
 then modify whatever you want, then
